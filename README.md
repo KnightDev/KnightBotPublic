@@ -15,6 +15,7 @@ KnightBot's help is divided into 5 categories:
 - General
 
 **Information**
+
 The information category contains commands that allow you to retrieve information about the target server or user. Examples are commands such as:
 
 - serverinfo
