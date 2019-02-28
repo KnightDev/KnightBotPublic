@@ -39,3 +39,18 @@ As well as commands for configuring and interactng with the KnightBot Security C
 
 ...And so forth. (see the pattern here?)
 
+**Moderation**
+
+The moderation category contains all commands for performing moderative actions via KnightBot, or configuring applicable AutoModerative features. Examples are commands such as:
+
+- warn/warnset
+- ban
+- mute
+- kick
+- giverole/takerole
+
+and many others. 
+
+**Music**
+
+KnightBot may be primarily for Security and Moderation, but its Music functionality is by no means bare. KnightBot allows for extremely high-quality music playback from both YouTube and SoundCloud...
