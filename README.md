@@ -53,4 +53,13 @@ and many others.
 
 **Music**
 
-KnightBot may be primarily for Security and Moderation, but its Music functionality is by no means bare. KnightBot allows for extremely high-quality music playback from both YouTube and SoundCloud...
+KnightBot may be primarily for Security and Moderation, but its Music functionality is by no means bare. KnightBot allows for extremely high-quality music playback from both YouTube and SoundCloud as well as per-server playlists, vote skipping, all of that good stuff. Few commands to know about:
+
+- play (you can either type a song name and artist or include a YouTube or SoundCloud link)
+- pause
+- resume
+- skip
+- song (to check current song)
+- queue (to check what's up next)
+
+And a few more. 
