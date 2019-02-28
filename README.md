@@ -1,5 +1,7 @@
 # KnightBot - Security and Moderation
 
+**STOP** - Needing assistance with KnightBot for features or errors that are not documented in this repository? Join the support Discord @ http://discord.gg/FARHDTv, solve Checkpoint, and ping a Support staff member with your question, comment, concern, or error. 
+
 KnightBot is a Security and Moderation-focused Discord Bot built to keep your server safe without the need for subscriptions, premium bot plans, or having multiple bots to cover bypasses for one another. 
 
 KnightBot is coded in **Python** using the *discord.py* library, and may work and feel different than most Discord bots. 
