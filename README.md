@@ -4,6 +4,8 @@
 
 **NEED TO REPORT A BUG?** - Please DM KnightBot with the command **+bugreport** followed by the error, or run the command in any server KnightBot is in where the error is prevalent. 
 
+**FILING A GDPR REQUEST** - GDPR Requests can be filed by contacting any "Executive Team" member in the support Discord. 
+
 
 KnightBot is a Security and Moderation-focused Discord Bot built to keep your server safe without the need for subscriptions, premium bot plans, or having multiple bots to cover bypasses for one another. 
 
