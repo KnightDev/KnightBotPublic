@@ -26,3 +26,16 @@ The information category contains commands that allow you to retrieve informatio
 
 ...And so forth. 
 
+**Security**
+
+The security category contains commands that allow you to enable, disable, and configure features of KnightBot that help increase server and user safety. Examples are commands such as:
+
+- antiinvite
+- antilink
+- antisocial
+- antiraid
+
+As well as commands for configuring and interactng with the KnightBot Security Checkpoint.
+
+...And so forth. (see the pattern here?)
+
