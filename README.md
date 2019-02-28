@@ -63,3 +63,7 @@ KnightBot may be primarily for Security and Moderation, but its Music functional
 - queue (to check what's up next)
 
 And a few more. 
+
+**General**
+
+The general category contains commands that I really couldn't sort under any of the others. These are commands for say, marking yourself as AFK, checking the time and weather in different places, things like that. These are extras of the bot and are not core to its Security and Moderation functionality. 
